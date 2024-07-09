@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiddharthSancheti
-- 📚 Freshman in CS @ Purdue University
-- 👀 I’m interested in Java development.
+- 📚 Studing CS @ Purdue University
+- 👀 I’m interested in low-level programming.
 - 🌱 I’m currently learning C++ basics and advanced Java programming.
 - 📫 Reach me through my email sidsancheti94@gmail.com
 
