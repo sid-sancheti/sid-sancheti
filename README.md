@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiddharthSancheti
 - 📚 Studing CS @ Purdue University
 - 👀 I’m interested in low-level programming.
-- 🌱 I’m currently learning C++ basics and advanced Java programming.
+- 🌱 I’m currently learning Data Structures & Algorithms and Computer Architecture.
 - 📫 Reach me through my email sidsancheti94@gmail.com
 
 <!---
