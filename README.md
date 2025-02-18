@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SiddharthSancheti
-- 📚 Studing CS @ Purdue University
-- 👀 I’m interested in low-level programming.
-- 🌱 I’m currently learning Data Structures & Algorithms and Computer Architecture.
-- 📫 Reach me through my email sidsancheti94@gmail.com or sancheti@purdue.edu
+- 👋 Hi, I’m @sid-sancheti
+- 📚 Studying CS @ Purdue University with a 
+- 👀 I’m interested in computer graphics and web dev.
+- 🌱 I’m currently learning Computer Graphics, Full-stack Web Development, and Systems Programming.
+- 📫 Reach me through my email sidsancheti94@gmail.com or sancheti@purdue.edu.
 
 <!---
 SiddharthSancheti/SiddharthSancheti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
