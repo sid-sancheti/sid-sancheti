@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @sid-sancheti
-- 📚 Studying CS @ Purdue University with a 
-- 👀 I’m interested in computer graphics and web dev.
-- 🌱 I’m currently learning Computer Graphics, Full-stack Web Development, and Systems Programming.
-- 📫 Reach me through my email sidsancheti94@gmail.com or sancheti@purdue.edu.
+Nice to meet you! My name is Sid Sancheti.
 
-<!---
-SiddharthSancheti/SiddharthSancheti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a third-year Computer Science student at Purdue University. I am pursuing a concentration in Security and Machine Intelligence with a minor in Mathematics. However, I have a wide array of interest ranging from computer graphics to full-stack dev to low-level programming. 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sid-sancheti&layout=compact&hide=html,css)
